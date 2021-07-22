@@ -1,5 +1,8 @@
 # Forward-Assault-Updated-Credit-Script
-a vulnerability that works on pc version of forward Assault, works for mobile accounts as well. pastebin.com/qCUYDHSC
+a vulnerability that works on pc version of forward Assault, works for mobile accounts as well. 
+
+pastebin.com/qCUYDHSC
+
 All alright hello, this is CaeSer, how are you?
 
 well, I don't care. anyways, if this is AceCrown reading this,
