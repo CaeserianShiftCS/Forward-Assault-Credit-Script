@@ -2,8 +2,11 @@
 a vulnerability that works on pc version of forward Assault, works for mobile accounts as well. 
 
 pastebin.com/qCUYDHSC
+
 THE TUTORIAL:https://streamable.com/ei0wo2
+
 How it works?
+
 well for some reason blayze games's forward assault remix on computer lets you edit the information going to the server
 for whatever reason with a simple python http request.
 the reason for the script for being more than 100 lines is because i wanted to make it seem nice and easy to use
@@ -11,20 +14,30 @@ when watching the video. the reason the script failed last time is because no on
 this time i made it easy to understand.
 
 All alright hello, this is CaeSer, how are you?
+
 well, I don't care. anyways, if this is AceCrown reading this,
+
 I dislike you because of how you act
+
 Anyways, the reason I made this script is the same as the help screen on the screen, I wanted to make credit exploitation simple and easy.
+
 Also, making a video tutorial would probably help you.
 
 
 anyways, this is the last thing I'm making for Forward Assault.
+
 Credits:
 
 maxjg - homo
+
 revenant - a good friend
+
 thunder - a challenge
+
 ark - toxic doink I like playing with
+
 AceCrown - toxic doink that did little to no actual programming and talked about it more lol
+
 doom - the 2 days that we were exploiting and finding new things about the game were the best it was so much fun.
 
 
